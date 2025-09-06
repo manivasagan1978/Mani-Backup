@@ -1,0 +1,79 @@
+https://degreed.com/pathway/o974mwv59n/pathway#/pathway?orgsso=capgemini
+
+1.complete this pathway
+
+
+
+
+lab1
+https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/7-create-html-web-app
+
+lab2
+https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/3-exercise-create-a-web-app-in-the-azure-portal?pivots=csharp
+
+lab3
+https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/5-exercise-implement-a-web-application?pivots=csharp
+
+lab4
+https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/7-exercise-deploy-your-code-to-app-service?pivots=csharp
+
+lab5
+https://learn.microsoft.com/en-us/training/modules/publish-azure-web-app-with-visual-studio/
+
+lab6
+https://app.pluralsight.com/labs/detail/b00132ec-7298-4030-8e78-3835b35ffb92
+
+StorageArea:   
+lab1
+https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/5-exercise-create-a-storage-account
+lab2
+https://app.pluralsight.com/labs/detail/27d996d9-e779-4e47-8d6b-571d7d3a5d8f
+lab3
+https://app.pluralsight.com/labs/detail/0644110d-6547-4b28-9601-c788bc1cc832
+lab4
+https://app.pluralsight.com/labs/detail/bedf1a3c-039e-4b9f-b88d-2c828adeee6c
+lab5
+https://app.pluralsight.com/labs/detail/835c6821-a07d-495a-a76e-e8d05af0328d
+lab6
+
+
+Second Day:
+**************
+Lab1
+https://app.pluralsight.com/labs/detail/1a712608-4299-4dc6-8a14-874859a92a8e
+lab2
+https://app.pluralsight.com/labs/detail/74d6bc30-a699-447f-bee5-16d18124890b
+
+lab1
+https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-template
+https://app.pluralsight.com/labs/detail/ad852cbc-3569-44bf-99b0-15ef8aafe6a0
+lab3:
+https://learn.microsoft.com/en-in/training/modules/get-started-azure-advisor/
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-arc/
+https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-cosmos-db-sql-api/?source=recommendations
+cosmosDB:
+https://teams.microsoft.com/l/message/19:meeting_NjdhZGQ1MzUtZDJhMi00YzgyLTkyZjctMzNjNTcyZGEyMWI3@thread.v2/1696928474386?context=%7B%22contextType%22%3A%22chat%22%7D
+https://learn.microsoft.com/en-us/training/modules/try-azure-cosmos-db-sql-api/4-exercise-create-account?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.get-started-azure-cosmos-db-sql-api
+
+Attend Mentoring session: for Azure Az900 exam:
+***********************************************
+19th October
+RakheeHarlaka-check with him for mentoring registration
+**********
+Apply and Manage Resource Tags in Microsoft Azure	https://app.pluralsight.com/labs/detail/a5af925b-ee36-4598-a89d-b5173b513e6b
+Configure Azure Blob Storage	https://app.pluralsight.com/labs/detail/27d996d9-e779-4e47-8d6b-571d7d3a5d8f
+Configure Azure Files Storage	https://app.pluralsight.com/labs/detail/0644110d-6547-4b28-9601-c788bc1cc832
+Configure a Load Balancer on Microsoft Azure	https://app.pluralsight.com/labs/detail/a9a1e8a9-624d-47d6-8a33-d39edc7debd4
+Create an Azure Logic App	https://app.pluralsight.com/labs/detail/eb243940-9e10-43eb-a193-dce904dc4db0
+Create and Configure Azure Functions	https://app.pluralsight.com/labs/detail/ad852cbc-3569-44bf-99b0-15ef8aafe6a0
+Create and Configure Virtual Machines on Azure	https://app.pluralsight.com/labs/detail/d9d1a00d-861d-4bb8-a55d-192887d94c62
+Create and Configure Web Apps on Azure App Services	https://app.pluralsight.com/labs/detail/b00132ec-7298-4030-8e78-3835b35ffb92
+Create and Manage Resource Groups in Microsoft Azure	https://app.pluralsight.com/labs/detail/a1dbd504-b567-42b5-bee7-adbb788738ba
+Create and Test a SQL Database in Microsoft Azure	https://app.pluralsight.com/labs/detail/1a712608-4299-4dc6-8a14-874859a92a8e
+
+Estimate the Monthly Cost of a Windows VM with the Azure Pricing Calculator	https://app.pluralsight.com/labs/detail/e96d6fca-8318-43ef-a584-ad5e1a714240
+Implement Hot, Cool, and Archive Storage in Azure Blob Storage	https://app.pluralsight.com/labs/detail/835c6821-a07d-495a-a76e-e8d05af0328d
+Implement Microsoft Azure Queue Storage Queues	https://app.pluralsight.com/labs/detail/bedf1a3c-039e-4b9f-b88d-2c828adeee6c
+Implement Scaling in Azure Cosmos DB Storage	https://app.pluralsight.com/labs/detail/94785023-234c-40ae-8062-97ced2b07e3f
+
+

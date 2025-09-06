@@ -1,0 +1,36 @@
+Copy/insert CB records from CUST_DATA.CUSTOMER_STATUS to CUST_DATA.CUSTOMER_STATUS_CB
+
+select count(*) from CUST_DATA.CUSTOMER_STATUS where prgrm_nm='CC_EXPIRE';
+select * from CUST_DATA.CUSTOMER_STATUS where prgrm_nm='CC_EXPIRE';
+Select * from CUST_DATA.customer_spine_CB
+
+Res and commercial
+-----------------------
+CUST_DATA.CUSTOMER_STATUS
+CUST_DATA.CUSTOMER_STATUS_DTL
+
+how to diff
+
+Refering to another
+Customer_spine_cb
+
+1 fetch
+_________
+select * from customer_status
+where select case_id in
+		customer_spine_cb
+ 
+--table  where customer_spine_cb
+
+2)Cust_st_id   there is detail table  from customer_status pass this to child table
+
+Select * from Customer_status_dtl where cust_stat_id in
+
+
+
+
+
+
+
+
+

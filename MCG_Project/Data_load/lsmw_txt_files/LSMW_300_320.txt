@@ -1,0 +1,97 @@
+SAKNR	BUKRS	GLACCOUNT_TYPE	KTOKS	TXT20_ML	TXT50_ML	WAERS	XSALH	MWSKZ	XMWNO	XOPVW	FSTAG	TXT20_TX_02	TXT50_TX_02
+4100000000	UH39	P	Y400	GS_FG - 3rd	Gross sales_finished goods - 3rd party			+			Y029	GS_FG - 3rd	Gross sales_finished goods - 3rd party
+4100100000	UH39	P	Y400	GS_FG - IC	Gross sales_finished goods - Intercompany			+			Y029	GS_FG - IC	Gross sales_finished goods - Intercompany
+4101000000	UH39	P	Y400	GS_TG - 3rd	Gross sales_Trading goods - 3rd party			+			Y029	GS_TG - 3rd	Gross sales_Trading goods - 3rd party
+4101100000	UH39	P	Y400	GS_TG - IC	Gross sales_Trading goods - Intercompany			+			Y029	GS_TG - IC	Gross sales_Trading goods - Intercompany
+4102000000	UH39	P	Y400	GS_Oth - 3rd	Gross sales_other goods /materials - 3rd party			+			Y029	GS_Oth - 3rd	Gross sales_other goods /materials - 3rd party
+4102100000	UH39	P	Y400	GS_Oth - IC	Gross sales_other goods /materials - Intercompany			+			Y029	GS_Oth - IC	Gross sales_other goods /materials - Intercompany
+4110000000	UH39	P	Y400	Returns_FG - 3rd	Returns_finished goods - 3rd party			+			Y029	Returns_FG - 3rd	Returns_finished goods - 3rd party
+4110100000	UH39	P	Y400	Returns_FG - IC	Returns_finished goods - Intercompany			+			Y029	Returns_FG - IC	Returns_finished goods - Intercompany
+4111000000	UH39	P	Y400	Returns_TG - 3rd	Returns_Trading goods - 3rd party			+			Y029	Returns_TG - 3rd	Returns_Trading goods - 3rd party
+4111100000	UH39	P	Y400	Returns_TG - IC	Returns_Trading goods - Intercompany			+			Y029	Returns_TG - IC	Returns_Trading goods - Intercompany
+4112000000	UH39	P	Y400	Returns_Oth - 3rd	Returns_other goods /materials - 3rd party			+			Y029	Returns_Oth - 3rd	Returns_other goods /materials - 3rd party
+4112100000	UH39	P	Y400	Returns_Oth - IC	Returns_other goods /materials - Intercompany			+			Y029	Returns_Oth - IC	Returns_other goods /materials - Intercompany
+4120000000	UH39	P	Y400	Discnt_FG - 3rd	Discounts_finished goods - 3rd party			+			Y029	Discnt_FG - 3rd	Discounts_finished goods - 3rd party
+4120100000	UH39	P	Y400	Discnt_FG - IC	Discounts_finished goods - Intercompany			+			Y029	Discnt_FG - IC	Discounts_finished goods - Intercompany
+4121000000	UH39	P	Y400	Discnt_TG - 3rd	Discounts_Trading goods - 3rd party			+			Y029	Discnt_TG - 3rd	Discounts_Trading goods - 3rd party
+4121100000	UH39	P	Y400	Discnt_TG - IC	Discounts_Trading goods - Intercompany			+			Y029	Discnt_TG - IC	Discounts_Trading goods - Intercompany
+4122000000	UH39	P	Y400	Discnt_Oth - 3rd	Discounts_other goods /materials - 3rd party			+			Y029	Discnt_Oth - 3rd	Discounts_other goods /materials - 3rd party
+4122100000	UH39	P	Y400	Discnt_Oth - IC	Discounts_other goods /materials - Intercompany			+			Y029	Discnt_Oth - IC	Discounts_other goods /materials - Intercompany
+4130000000	UH39	P	Y400	Sales Red_FG - 3rd	Sales reduction from contract with cust_FG - 3rd 			+			Y029	Sales Red_FG - 3rd	Sales reduction from contract with cust_FG - 3rd 
+4130100000	UH39	P	Y400	Sales Red_FG - IC	Sales reduction from contract with cust_FG- IC			+			Y029	Sales Red_FG - IC	Sales reduction from contract with cust_FG- IC
+4131000000	UH39	P	Y400	Sales Red_TG - 3rd	Sales reduction from contract with cust_TG - 3rd			+			Y029	Sales Red_TG - 3rd	Sales reduction from contract with cust_TG - 3rd
+4131100000	UH39	P	Y400	Sales Red_TG - IC	Sales reduction from contract with cust_TG - IC			+			Y029	Sales Red_TG - IC	Sales reduction from contract with cust_TG - IC
+4132000000	UH39	P	Y400	Sales Red_Oth - 3rd	Sales reduction from contract with C_OthG/M - 3rd 			+			Y029	Sales Red_Oth - 3rd	Sales reduction from contract with C_OthG/M - 3rd 
+4132100000	UH39	P	Y400	Sales Red_Oth - IC	Sales reduction from contract with C_OthG /M - IC			+			Y029	Sales Red_Oth - IC	Sales reduction from contract with C_OthG /M - IC
+4200000000	UH39	P	Y400	Royalty - 3rd	Royalty - 3rd party			+			Y029	Royalty - 3rd	Royalty - 3rd party
+4300000000	UH39	P	Y400	Service - 3rd	Service - 3rd party			+			Y029	Service - 3rd	Service - 3rd party
+5100000000	UH39	P	Y400	Raw material cost	Raw material cost						Y004	Raw material cost	Raw material cost
+5100100000	UH39	P	Y400	ConsCst S-Prod Mat	Consumption cost of self-produced materials						Y004	ConsCst S-Prod Mat	Consumption cost of self-produced materials
+5101000000	UH39	P	Y400	Supplmntry Mat cost	Supplementary material cost						Y004	Supplmntry Mat cost	Supplementary material cost
+5101100000	UH39	P	Y400	ConsCst SP suppl Mat	Consumption Cst of self-produced supplementary Mat						Y004	ConsCst SP suppl Mat	Consumption Cst of self-produced supplementary Mat
+5110000000	UH39	P	Y400	Electricity cost_MFC	Electricity cost_MFC			*	X		Y004	Electricity cost_MFC	Electricity cost_MFC
+5111000000	UH39	P	Y400	Steam cost_MFC	Steam cost_MFC			*	X		Y004	Steam cost_MFC	Steam cost_MFC
+5112000000	UH39	P	Y400	Water cost_MFC	Water cost_MFC			*	X		Y004	Water cost_MFC	Water cost_MFC
+5120000000	UH39	P	Y400	Consumable Exp_MFC	Consumable expense_MFC			*	X		Y004	Consumable Exp_MFC	Consumable expense_MFC
+5200000000	UH39	P	Y400	Directors' Comp_MFC	Directors' compensation_MFC						Y004	Directors' Comp_MFC	Directors' compensation_MFC
+5201000000	UH39	P	Y400	Exe officer Comp_MFC	Executive officer's compensation_MFC						Y004	Exe officer Comp_MFC	Executive officer's compensation_MFC
+5202000000	UH39	P	Y400	Bonus_Employees_MFC	Bonus for employees_MFC						Y004	Bonus_Employees_MFC	Bonus for employees_MFC
+5203000000	UH39	P	Y400	Defined Bnf Exp_MFC	Defined benefit expenses_MFC						Y004	Defined Bnf Exp_MFC	Defined benefit expenses_MFC
+5204000000	UH39	P	Y400	Welfare Exp_MFC	Welfare expenses_MFC						Y004	Welfare Exp_MFC	Welfare expenses_MFC
+5210000000	UH39	P	Y400	Dprc_Bldgs_MFC	Depreciation of buildings_MFC						Y004	Dprc_Bldgs_MFC	Depreciation of buildings_MFC
+5211000000	UH39	P	Y400	Amrt_License_MFC	Amortization of license_MFC						Y004	Amrt_License_MFC	Amortization of license_MFC
+5212000000	UH39	P	Y400	Amrt_LT Ppd Exp_MFC	Amortization of long-term prepaid expneses_MFC						Y004	Amrt_LT Ppd Exp_MFC	Amortization of long-term prepaid expneses_MFC
+5220000000	UH39	P	Y400	Repr&Maint Cst_MFC	Repair & maintenance cost_MFC			*	X		Y004	Repr&Maint Cst_MFC	Repair & maintenance cost_MFC
+5221000000	UH39	P	Y400	Repr&MaintCst PI_MFC	Repair & maint cost in periodic intervals_MFC			*	X		Y004	Repr&MaintCst PI_MFC	Repair & maint cost in periodic intervals_MFC
+5222000000	UH39	P	Y400	Repr&Mat Cst Off_MFC	Repair & material cost in office & facilitity_MFC			*	X		Y004	Repr&Mat Cst Off_MFC	Repair & material cost in office & facilitity_MFC
+5223000000	UH39	P	Y400	Prototyping cost_MFC	Prototyping cost_MFC			*	X		Y004	Prototyping cost_MFC	Prototyping cost_MFC
+5320000000	UH39	P	Y400	IH Prod cost_FG	In-house production cost _finished goods						Y004	IH Prod cost_FG	In-house production cost _finished goods
+5321000000	UH39	P	Y400	IH Prod cost_semi-FG	In-house production cost _semi-finished goods						Y004	IH Prod cost_semi-FG	In-house production cost _semi-finished goods
+5400000000	UH39	P	Y400	InPlt Tsfr Var_FG	Inter-plant transfer variance _finished goods						Y004	InPlt Tsfr Var_FG	Inter-plant transfer variance _finished goods
+5401000000	UH39	P	Y400	InPlt Tsfr Var_TG	Inter-plant transfer variance _trading goods						Y004	InPlt Tsfr Var_TG	Inter-plant transfer variance _trading goods
+5402000000	UH39	P	Y400	InPlt Tsfr Var_IC TG	Inter-plant transfer variance_IC TG						Y004	InPlt Tsfr Var_IC TG	Inter-plant transfer variance_IC TG
+5403000000	UH39	P	Y400	InPlt Tsfr Var_SemFG	Inter-plant transfer variance _semi-finished goods						Y004	InPlt Tsfr Var_SemFG	Inter-plant transfer variance _semi-finished goods
+5404000000	UH39	P	Y400	InPlt Tsfr Var_RM	Inter-plant transfer variance_raw materials						Y004	InPlt Tsfr Var_RM	Inter-plant transfer variance_raw materials
+5405000000	UH39	P	Y400	InPlt Tsfr Var_PkMat	Inter-plant transfer variance _package material						Y004	InPlt Tsfr Var_PkMat	Inter-plant transfer variance _package material
+5406000000	UH39	P	Y400	InPlt Tsfr Var_Spply	Inter-plant transfer variance_supplies						Y004	InPlt Tsfr Var_Spply	Inter-plant transfer variance_supplies
+5410000000	UH39	P	Y400	Mat Tsfr Var_FG	Material transfer variance _finished goods						Y004	Mat Tsfr Var_FG	Material transfer variance _finished goods
+5411000000	UH39	P	Y400	Mat Tsfr Var_TG	Material transfer variance _trading goods						Y004	Mat Tsfr Var_TG	Material transfer variance _trading goods
+5412000000	UH39	P	Y400	Mat Tsfr Var_IC TG	Material transfer variance_IC TG						Y004	Mat Tsfr Var_IC TG	Material transfer variance_IC TG
+5413000000	UH39	P	Y400	Mat Tsfr Var_SemiFG	Material transfer variance _semi-finished goods						Y004	Mat Tsfr Var_SemiFG	Material transfer variance _semi-finished goods
+5414000000	UH39	P	Y400	Mat Tsfr Var_RM	Material transfer variance_raw materials						Y004	Mat Tsfr Var_RM	Material transfer variance_raw materials
+5415000000	UH39	P	Y400	Mat Tsfr Var_PkMat	Material transfer variance _package material						Y004	Mat Tsfr Var_PkMat	Material transfer variance _package material
+5416000000	UH39	P	Y400	Mat Tsfr Var_Supply	Material transfer variance_supplies						Y004	Mat Tsfr Var_Supply	Material transfer variance_supplies
+5420000000	UH39	P	Y400	Pur price Var_FG	Purchased price variance _finished goods						Y004	Pur price Var_FG	Purchased price variance _finished goods
+5421000000	UH39	P	Y400	Pur price Var_TG	Purchased price variance _trading goods						Y004	Pur price Var_TG	Purchased price variance _trading goods
+5422000000	UH39	P	Y400	Pur price Var_IC TG	Purchased price variance_IC TG						Y004	Pur price Var_IC TG	Purchased price variance_IC TG
+5423000000	UH39	P	Y400	Pur price Var_SemiFG	Purchased price variance _semi-finished goods						Y004	Pur price Var_SemiFG	Purchased price variance _semi-finished goods
+5424000000	UH39	P	Y400	Pur price Var_RM	Purchased price variance_raw materials						Y004	Pur price Var_RM	Purchased price variance_raw materials
+5425000000	UH39	P	Y400	Pur price Var _PkMat	Purchased price variance _package material						Y004	Pur price Var _PkMat	Purchased price variance _package material
+5426000000	UH39	P	Y400	Pur price Var_Supply	Purchased price variance_supplies						Y004	Pur price Var_Supply	Purchased price variance_supplies
+5430000000	UH39	N	Y400	InvCh WIP_Cost Var	Inventory change WIP - cost variance						Y001	InvCh WIP_Cost Var	Inventory change WIP - cost variance
+6100000000	UH39	P	Y400	ShpgCst Dom sales	Shipping cost for domestic sales			*	X		Y004	ShpgCst Dom sales	Shipping cost for domestic sales
+6101000000	UH39	P	Y400	Sale commision Dom 	Sales commision for domestic sales			*	X		Y004	Sale commision Dom 	Sales commision for domestic sales
+6102000000	UH39	P	Y400	WH StrgCst Dom sale	Warehouse storage cost for domestic sales			*	X		Y004	WH StrgCst Dom sale	Warehouse storage cost for domestic sales
+6210000000	UH39	P	Y400	Dprc_Buildings	Depreciation of buildings						Y004	Dprc_Buildings	Depreciation of buildings
+6211000000	UH39	P	Y400	Amrt_License	Amortization of license						Y004	Amrt_License	Amortization of license
+6212000000	UH39	P	Y400	Amrt_LT prepaid Exp	Amortization of long-term prepaid expneses						Y004	Amrt_LT prepaid Exp	Amortization of long-term prepaid expneses
+6240000000	UH39	P	Y400	Alwc doubtful Accts	Allowance for doubtful accounts			*	X		Y004	Alwc doubtful Accts	Allowance for doubtful accounts
+6310000000	UH39	P	Y400	Gain_sale_fixed Asts	Gain on sales of fixed assets						Y004	Gain_sale_fixed Asts	Gain on sales of fixed assets
+6320000000	UH39	P	Y400	Rev_Impr loss_FixAst	Reversal of impairment loss on fixed assets						Y004	Rev_Impr loss_FixAst	Reversal of impairment loss on fixed assets
+6330000000	UH39	P	Y400	Gain_sale_Inv Sec 	Gain on sale of Investment Sec (subs. & affilis)						Y004	Gain_sale_Inv Sec 	Gain on sale of Investment Sec (subs. & affilis)
+6400000000	UH39	P	Y400	Retir loss_fixed Ast	Retirement loss of fixed assets						Y004	Retir loss_fixed Ast	Retirement loss of fixed assets
+6410000000	UH39	P	Y400	Impr loss_fixed Asts	Impairment loss on fixed assets						Y004	Impr loss_fixed Asts	Impairment loss on fixed assets
+6411000000	UH39	P	Y400	Impr loss_goodwill	Impairment loss on goodwill						Y004	Impr loss_goodwill	Impairment loss on goodwill
+6420000000	UH39	P	Y400	Ls_disp_subs (WD_IS)	Ls on disp of subs. & aff (write-down on Inv Sec)						Y004	Ls_disp_subs (WD_IS)	Ls on disp of subs. & aff (write-down on Inv Sec)
+6800000000	UH39	P	Y400	Charge-in_Special I	Charge-in to special item						Y004	Charge-in_Special I	Charge-in to special item
+6900000000	UH39	P	Y400	COGS charge out-Rev	COGS charge out-revenue						Y004	COGS charge out-Rev	COGS charge out-revenue
+7100000000	UH39	P	Y400	Int INC_Deposit Svng	Interest income on deposits - savings						Y004	Int INC_Deposit Svng	Interest income on deposits - savings
+7101000000	UH39	P	Y400	Int INC_Lease	Interest income on lease						Y004	Int INC_Lease	Interest income on lease
+7102000000	UH39	P	Y400	Div INC_Subsdry	Dividend income from subsidiaries						Y004	Div INC_Subsdry	Dividend income from subsidiaries
+7103000000	UH39	P	Y400	Div INC exc. S&A	Dividend income (excl.subs.&affilis)						Y004	Div INC exc. S&A	Dividend income (excl.subs.&affilis)
+7110000000	UH39	P	Y400	Foreign Exc gain	Foreign exchange gain						Y004	Foreign Exc gain	Foreign exchange gain
+7200000000	UH39	P	Y400	Int Exp_IC loan	Interest expenses on intercompany loan						Y004	Int Exp_IC loan	Interest expenses on intercompany loan
+7201000000	UH39	P	Y400	Int Exp_Lease	Interest expenses on lease						Y004	Int Exp_Lease	Interest expenses on lease
+7210000000	UH39	P	Y400	Foreign Exc loss	Foreign exchange loss						Y004	Foreign Exc loss	Foreign exchange loss
+8000000000	UH39	P	Y400	Current INC tax	Current income taxes						Y001	Current INC tax	Current income taxes
+8001000000	UH39	P	Y400	Corporate BUS tax	Corporate business tax						Y001	Corporate BUS tax	Corporate business tax

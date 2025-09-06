@@ -1,0 +1,6 @@
+Username,Identifier,First name,Last name,department,salary
+booker12,9012,Rachel,Booker,sales,5000
+grey07,2070,Laura,Grey,hr,7000
+johnson81,4081,Craig,Johnson,sales,2000
+jenkins46,9346,Mary,Jenkins,hr,8000
+smith79,5079,Jamie,Smith,sales,10000

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Portals xmlns:logservice="http://www.informatica.com/pcsf/logservice" xmlns:domainservice="http://www.informatica.com/pcsf/domainservice" xmlns:domainconfigservice="http://www.informatica.com/pcsf/domainconfigservice" xmlns:alertservice="http://www.informatica.com/pcsf/alertservice" xmlns:usermanagement="http://www.informatica.com/pcsf/usermanagement" xmlns:webserviceshub="http://www.informatica.com/pcsf/webserviceshub" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:domainbackup="http://www.informatica.com/pcsf/domainbackup" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:licenseusage="http://www.informatica.com/pcsf/licenseusage" xmlns:metadata="http://www.informatica.com/pcsf/metadata" xmlns:common="http://www.informatica.com/pcsf/common"  xsi:type="common:PCSFVector"  objVersion="1.1.19">
+<vector xsi:type="domainservice:Portals"  objVersion="1.1.19">
+<domainName>Domain_blrinforma</domainName>
+<address xsi:type="metadata:NodeRef"  objVersion="1.1.19">
+<host>BLRINFORMA</host>
+<port>6005</port>
+</address>
+<tlsEnabled>false</tlsEnabled>
+<kerberosEnabled>false</kerberosEnabled>
+<samlEnabled>false</samlEnabled>
+</vector>
+</Portals>

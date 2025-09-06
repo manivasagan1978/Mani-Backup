@@ -1,0 +1,34 @@
+Armin Discuss:05-Sep-2023*
+********Talk to Armin and Raise Informatica tool access request
+***************
+1.Elinor-sick last Thursday
+2.Finalize the Extraction objects and Extraction rules
+3.load sequence-object dependency to know better understanding
+load sequence plan
+different levels-> objects with first level no dependency
+Bank Master cockpit-S4Hana
+when this upload ready?-Elinor's question:
+MCG japan?
+we load the Bank master and mainteain it centrally.
+we haven't get any information from Capgemini
+
+We did not get ETL tool Informatica access yet-It may impact delay in 
+the Build activities
+Cost centers-not to do right now-There is no extract-It is only upload
+Workcenter-grey-not for all 4 src client
+Cost rate,internal-out of scope
+Profit center-hierarchy set up 80 %-mid of Sep(at this movement no profit center
+Materials-
+Fixed Assets-once cost center is there-will go for fixed assets
+Customer Material-
+Material/BOM
+Product classification-Commodity code
+Condition record for pricing-
+Condition record for pricing-restricted
+arg level
+Purchasing info record
+Purchasing sceduling agreement
+Sales order-level4
+Level 5-GL Account and Purchase
+
+

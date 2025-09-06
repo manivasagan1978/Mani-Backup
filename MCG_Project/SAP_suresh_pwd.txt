@@ -1,0 +1,60 @@
+Mock3-260  Mock4-280 Prod-100    Mock4: Inventory for Carbon Fiber (550)
+
+August@2023 April@2023    KNVV-sales  KNVP-salespartner KNA1-General data KNB!-company data
+
+1) APP STREAM 100219535666
+ 
+https://desktop.pingone.com/company100259/Selection?cmd=selection
+
+manivasagan.namasivayam@capgemini.com Migration@2024
+
+/n/ui2/flp
+
+https://10.210.6.37:44300/sap/bc/ui2/flp?sap-client=320&sazp-language=EN#Shell-home   VXX999900108 Migration@2023
+https://10.210.6.32:44300/sap/bc/ui2/flp?sap-client=200&sap-language=EN#Shell-home
+https://10.210.6.32:44300/sap/bc/ui2/flp?sap-client=210&sap-language=EN#Shell-home   VXX999900108 Migration@2024
+https://10.210.6.32:44300/sap/bc/ui2/flp?sap-client=220&sap-language=EN#Shell-home   VXX999900108 Migration@2024
+https://10.210.6.32:44300/sap/bc/ui2/flp?sap-client=230&sap-language=EN#Shell-home   VXX999900108 Migration@2023
+-----------
+https://10.210.6.32:44300/sap/bc/ui2/flp?sap-client=260&sap-language=EN#Shell-home
+Username:  VXC999900099 Migration@2024
+
+PROD
+https://vhmcygp2ci.pce.sharedom.net:44300/sap/bc/ui2/flp?sap-client=100&sap-language=EN
+https://10.210.6.33:44300/sap/bc/ui2/flp?sap-client=100&sap-language=EN#Shell-home
+PROD
+Username:  VXC999900099 Migration@2025
+
+VXX999900108-Prod now 
+Initial@123
+
+3124  191
+32C0
+1000003082	DE02	DE0	DE254555387  deleted
+
+sambhranta.mallick@capgemini.com
+ME3_160_420_550_Source data for Object classification - Material (MARA) + Greg Dupes.xml
+
+100219535666
+
+4000 one 2+2 6000
+
+5000+3000=8000
+
+Pranav-adv-2000
+210000000190
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

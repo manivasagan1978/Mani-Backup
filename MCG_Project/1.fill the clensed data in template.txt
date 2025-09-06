@@ -1,0 +1,9 @@
+1.fill the clensed data in template
+2.capture the business rule in template--  
+3.Populate the data in field mapping template
+
+
+(Finalize the object list...finalize the volume)
+so that we can load
+
+Transformation is not in our scope.
